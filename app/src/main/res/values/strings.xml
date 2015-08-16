@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">ContentProvider</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <array name="list_item_values">
+        <item>One</item>
+        <item>One</item>
+        <item>One</item>
+        <item>One</item>
+        <item>One</item>
+        <item>One</item>
+        <item>One</item>
+        <item>One</item>
+        <item>One</item>
+        <item>One</item>
+        <item>One</item>
+        <item>One</item>
+        <item>One</item>
+        <item>One</item>
+
+    </array>
+</resources>
